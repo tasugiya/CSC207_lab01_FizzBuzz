@@ -24,7 +24,7 @@ the HTTPS URL which you will see. You can copy it by clicking the little 'copy' 
 the "Clone Repository" option.
 
 5. In the menu that appears, paste the URL. You can either use the default location on your computer to save the project,
-or you can choose the directory. 
+or you can choose the directory.
 
    > Note: if you later make another clone of this repository, it will require you to choose a new directory to save it to,
    since you can't have two directories with the exact same path on your computer.
@@ -56,7 +56,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [X] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -78,7 +78,7 @@ and output exactly one of the following:
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
-- [ ] Try a short game of Fizz Buzz with your team now.
+- [X] Try a short game of Fizz Buzz with your team now.
 
 ---
 <details>
@@ -141,7 +141,7 @@ class FizzBuzz {
 
 What is the last string that the program will print?
 
-- [ ] Open [`src/lab1/FizzBuzz.java`](src/lab1/FizzBuzz.java) and click the run button in the top left corner to run `FizzBuzz` to check your answer.
+- [X] Open [`src/lab1/FizzBuzz.java`](src/lab1/FizzBuzz.java) and click the run button in the top left corner to run `FizzBuzz` to check your answer.
 
 After you have run FizzBuzz once, you may notice that a green play button appears beside FizzBuzz on the above line.
 This is a feature of IntelliJ. Running the program generates a run configuration; when IntelliJ
@@ -206,7 +206,7 @@ test the calculation for several interesting numbers more easily though.
 2. Near the selected lines, a context menu with the option to `Extract —> Method…` should appear;
    click this to extract a method.
 
-  > Alternatively, you can select the menu item `Refactor —> Extract/Introduce —> Method…` 
+  > Alternatively, you can select the menu item `Refactor —> Extract/Introduce —> Method…`
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`, and press Enter.
 
