@@ -212,7 +212,7 @@ test the calculation for several interesting numbers more easily though.
 
 3. Immediately, type the method name you want, maybe something like `doFizzBuzz`, and press Enter.
 
-- [ ] Rerun the program to verify that it still works.
+- [X] Rerun the program to verify that it still works.
 
 > Note: Recall that in Python we were in the habit of defining helpers with a leading underscore to mark them as being
 > private — only to be called by the method using it as a helper and not by anyone outside the class. IntelliJ has done
@@ -244,7 +244,7 @@ a sequence of three git commands:
    will need to do the actual push using IntelliJ. See the first tip below, which mentions how to perform
    the relevant git operations through IntelliJ's graphical user interface.
 
-- [ ] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
+- [X] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
 - [ ] Repeat the above steps for `README.md` (or try using the approach below).
 
